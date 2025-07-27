@@ -6,7 +6,7 @@ local Players = game:GetService("Players")
 local localPlayer = Players.LocalPlayer
 
 -- 🔑 CONFIG
-local KEY_CHECK_URL = "https://raw.githubusercontent.com/anhlamgixungdangvoiem/keypremium/refs/heads/main/key%20(1).json"
+local KEY_CHECK_URL = "https://raw.githubusercontent.com/anhlamgixungdangvoiem/keypremium/refs/heads/main/key.json"
 
 -- 🌈 Load Fluent UI
 local Fluent = loadstring(game:HttpGet("https://raw.githubusercontent.com/LongThanhTz12/GUI-LIBARY-SCRIPT/refs/heads/main/guilibaryscript"))()
