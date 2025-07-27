@@ -78,7 +78,7 @@ Tabs.Main:AddButton({
 
 			task.delay(2, function()
 				Window:Destroy()
-				loadstring(game:HttpGet("https://raw.githubusercontent.com/anhlamgixungdangvoiem/mainpremium/refs/heads/main/premainprt.lua"))() 
+				loadstring(game:HttpGet("https://raw.githubusercontent.com/anhlamgixungdangvoiem/mainpremium/refs/heads/main/mainpreprt.lua"))() 
 			end)
 		end
 	end,
